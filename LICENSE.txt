@@ -1,0 +1,22 @@
+======================================================================
+                      MARGIELA OPTIMIZER
+                COMMERCIAL SYSTEM PERFORMANCE SUITE
+                  ALL RIGHTS RESERVED (C) 2026
+======================================================================
+
+Copyright (c) 2026 MONE / Margiela Optimizer. All Rights Reserved.
+
+TERMS OF USE AND PROPRIETARY NOTICE:
+1. OWNERSHIP: Margiela Optimizer, including its compiled binary, code structure,
+   branding, graphics, and unique user interface layout, is proprietary software
+   wholly owned by MONE.
+2. RESTRICTIONS: You are granted a non-exclusive license to run this executable
+   for personal system tuning. You may NOT:
+   - Decompile, reverse engineer, or disassemble the binary.
+   - Rebrand, rename, or sell the software under any other name.
+   - Host modified versions of the executable.
+3. DISCLAIMER: Provided "AS IS" without warranty of any kind. Always maintain
+   a System Restore Point prior to system modifications.
+
+Official Inquiries & Support: https://discord.gg/UwYTCZD6P7
+======================================================================
